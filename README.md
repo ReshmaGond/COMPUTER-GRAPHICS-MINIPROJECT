@@ -1,2 +1,2 @@
 # COMPUTER-GRAPHICS-MINIPROJECT
-![](images/Screenshot (57).png)
+![](images/contentpage.png)
